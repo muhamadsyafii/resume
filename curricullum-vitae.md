@@ -11,7 +11,7 @@ Copyright 2017 Resume Muhamad Syafii. All right reserved.
 - Phone           : +6282217006113
 - Email           : - muhamadsyafii4@gmail.com
                     - muhamadsyafii100@gmail.com
-                    - muhamadsyafiimhs.pelitabangsa.ac.id
+                    - muhamadsyafii@mhs.pelitabangsa.ac.id
 
 # Interesting & Hobby's
 
