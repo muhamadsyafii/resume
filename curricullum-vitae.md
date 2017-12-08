@@ -1,4 +1,4 @@
-CURRICULLUM VITAE
+#CURRICULLUM VITAE
 
 Copyright 2017 Resume Muhamad Syafii. All right reserved.
 
