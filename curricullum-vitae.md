@@ -26,9 +26,9 @@ Copyright 2017 Resume Muhamad Syafii. All right reserved.
 
 # Education's
 - STT Pelita Bangsa Cikarang | Teknik Informatika | 2015-Now
-- SMK Bina Taruna Jalancagak Subang | Teknik Informatika | 2011-2014
-- SMP Negeri 1 Sagalaherang | 2009-2011
-- SDN Tengger Agung | 2003-2009
+- SMK Bina Taruna Jalancagak Subang | Teknik Informatika | 2010-2014
+- SMP Negeri 1 Sagalaherang | 2008-2010
+- SDN Tengger Agung | 2003-2008
 
 # Skill's
 
@@ -39,6 +39,6 @@ Copyright 2017 Resume Muhamad Syafii. All right reserved.
 - Networking | ***
 
 # Portofolio's
-- <a href="https://www.muhamadsyafii.web.id" target="_blank"> Website : https://www.muhamadsyafii.web.id</a>
+- Website : https://www.muhamadsyafii.web.id
 
 # 
